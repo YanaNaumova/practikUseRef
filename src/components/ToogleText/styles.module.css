@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inputStyles {
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 80px;
+}
+
+.btn {
+  max-width: 150px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.textStyle {
+  font-weight: 700;
+  text-align: center;
+}
+
+.btnContainer {
+  display: flex;
+  gap: 10px;
+}
